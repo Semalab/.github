@@ -36,6 +36,10 @@ Please describe any security considerations or implications of these changes.
 
 Please describe any potential impact this change may have on other parts of the system.
 
+## Deployment Special Requirements
+
+Please add a checkbox list of any special requirements for deployment or just write "None".
+
 ## Additional Comments
 
 If this is a large or complex change, please provide additional comments regarding the implementation details, challenges faced, and any other relevant information.
